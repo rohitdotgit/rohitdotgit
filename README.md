@@ -17,7 +17,7 @@
 
 I build governed, production-grade data pipelines and AI-native systems across Snowflake, BigQuery, and cloud-native lakehouses on AWS and GCP.
 
-With 2.6 years of experience, I turn fragmented data into reliable intelligence, scalable warehouse layers, and real-world AI workflows that support business decisions and product experiences.
+With 2.7 years of experience, I turn fragmented data into reliable intelligence, scalable warehouse layers, and real-world AI workflows that support business decisions and product experiences.
 
 ## Current Focus
 
