@@ -17,7 +17,7 @@
 
 I build governed, production-grade data pipelines and AI-native systems across Snowflake, BigQuery, and cloud-native lakehouses on AWS and GCP.
 
-With 2.2+ years of experience, I turn fragmented data into reliable intelligence, scalable warehouse layers, and real-world AI workflows that support business decisions and product experiences.
+With 2.6 years of experience, I turn fragmented data into reliable intelligence, scalable warehouse layers, and real-world AI workflows that support business decisions and product experiences.
 
 ## Current Focus
 
@@ -72,6 +72,9 @@ Nov 2024 — Present
 - Translated Qlik logic into optimized Snowflake SQL and stored procedures
 - Built a Streamlit app with RBAC-enabled file ingestion and approval workflows
 - Designed metadata-driven ingestion and versioned data pipelines
+- Built a GenAI-based analytics chatbot leveraging Streamlit and Snowflake Cortex LLM that converts natural language queries into sql, securely executes them on snowflake, and generates business data insights.
+- Developed Snowflake Stored Procedures to parse complex nested JSON API responses, dynamically flatten hierarchical data, perform schema evolution, and load structured datasets for enterprise reporting and analytics.
+- Built scalable Snowflake ML pipelines using Stored Procedures, Snowpark, feature engineering, UDF-based model deployment, and automated scoring to support Pre-Qualified Loan (PQL) solutions across multiple fintech partners.
 - Applied Kimball-based dimensional modeling for reporting data models
 
 ### GCP Data Engineer
