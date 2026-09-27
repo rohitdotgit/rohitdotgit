@@ -1,5 +1,8 @@
 # Rohit
 
+## Portfolio
+[Rohit — Data Engineer](https://rohitdotgit.github.io/rohit-portfolio/)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=680&lines=Data+Engineer+%7C+AI+%2F+ML+Builder;Snowflake+%7C+BigQuery+%7C+AWS+%7C+GCP;Production-Grade+Pipelines+%26+RAG+Systems" alt="Typing SVG" />
 </p>
@@ -63,7 +66,7 @@ With 2.2+ years of experience, I turn fragmented data into reliable intelligence
 ## Experience Snapshot
 
 ### Snowflake Data Engineer
-Seametriq Analytics LLP — Mumbai  
+Segmetriq Analytics LLP — Mumbai  
 Nov 2024 — Present
 
 - Translated Qlik logic into optimized Snowflake SQL and stored procedures
@@ -72,7 +75,7 @@ Nov 2024 — Present
 - Applied Kimball-based dimensional modeling for reporting data models
 
 ### GCP Data Engineer
-Seametriq Analytics LLP — Mumbai  
+Segmetriq Analytics LLP — Mumbai  
 Apr 2024 — Nov 2024
 
 - Implemented BigQuery SQL solutions for sales, collection, and reporting KPIs
